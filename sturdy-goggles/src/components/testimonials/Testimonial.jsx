@@ -20,7 +20,7 @@ const data = [
     avatar: AVTR1,
     name: "Wambui",
     review:
-      "I had the pleasure of working with noel on a recent project and I was thoroughly impressed with her skills and dedication. She has a deep understanding of Software Engineering, and her technical knowledge allowed us to efficiently and effectively tackle any challenges that arose. noel is also a fantastic communicator and team player, always willing to lend a helping hand and collaborate with others. I highly recommend her for any engineering role and I am confident he will exceed expectations.",
+      "I had the pleasure of working with noel on a recent project and I was thoroughly impressed with her skills and dedication. She has a deep understanding of Software Engineering, and her technical knowledge allowed us to efficiently and effectively tackle any challenges that arose. noel is also a fantastic communicator and team player, always willing to lend a helping hand and collaborate with others. I highly recommend her for any engineering role and I am confident she will exceed expectations.",
   },
 ];
 
